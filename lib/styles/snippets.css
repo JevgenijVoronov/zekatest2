@@ -1,1 +1,8 @@
 
+/* --- snippets.css --- */  
+ body {
+    --text-normal: red;
+    background-color: green;
+  }  
+
+
